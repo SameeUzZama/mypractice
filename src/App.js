@@ -1,10 +1,11 @@
 import "./App.css";
-import Filter from "./components/Filtermethod/Filter";
+// import Filter from "./components/Filtermethod/Filter";
 
 function App() {
   return (
     <div className="App">
-      <Filter />
+      {/* <Filter /> */}
+      
     </div>
   );
 }
